@@ -1,8 +1,8 @@
 class Ridectl < Formula
   desc "Command line tool for ridecell-operator"
   homepage "https://github.com/Ridecell/ridectl"
-  url "https://github.com/Ridecell/ridectl/releases/download/v0.0.16/ridectl_macos.zip"
-  sha256 "46acd3821e12bf461d4dce6f6e05b8dfc2d938132351054d5217a7085a165fdd"
+  url "https://github.com/Ridecell/ridectl/releases/download/v0.0.17/ridectl_macos.zip"
+  sha256 "b1d33bd53ed66329e9c82aef82f04d9753b7e868538d8813228c00708092e03a"
 
   def install
     bin.install "ridectl"
